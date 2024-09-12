@@ -11,9 +11,9 @@ div {
 }
 
 p: {
-  color: black;
+  color: red;
 }
 
 p:hover {
-  color: red;
+  color: green;
 }
